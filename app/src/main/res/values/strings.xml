@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">أثر</string>
+    <string name="app_tagline">أثرٌ يبقى.. وحسنات لا تنقطع</string>
+    <string name="app_subheading">تطبيق الصدقة الجارية والعمل الصالح المستمر</string>
+    <string name="splash_loading">جاري تهيئة الأثر المبارك...</string>
+    <string name="welcome_title">أهلاً بك في أثر</string>
+    <string name="welcome_subtitle">خطوتك الأولى نحو غرس أثر طيب لا ينقطع بإذن الله</string>
+</resources>
