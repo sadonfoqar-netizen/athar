@@ -1,0 +1,6 @@
+{
+  "name": "أثر",
+  "description": "تطبيق الصدقة الجارية والأثر المستمر - أثرٌ يبقى وحسنات لا تنقطع",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
